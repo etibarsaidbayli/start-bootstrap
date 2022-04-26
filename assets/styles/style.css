@@ -91,20 +91,16 @@ header .logo {
 }
 
 .navbar-light .navbar-toggler{
- 
     color: rgba(0,0,0,var(--color2));
     border-color: rgba(0,0,0,var(--color2));
 }
 header .burger-btn span{
-    
     font-size:3.2rem;
- 
 }
     
 /* main section FIRST */ 
 section:first-child{
     background:var(--color2);
-    
     padding-top: 180px;
 }
 section:first-child .content{
